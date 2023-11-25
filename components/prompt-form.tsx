@@ -21,7 +21,7 @@ export interface PromptProps
   isLoading: boolean
 }
 
-const ask1 = "Tell me a little about yourself ?"
+const ask1 = "Tell me a little about yourself briefly ?"
 const ask2 = "Do you have professional certifications ?"
 const ask3 = "Why should we hire you ?"
 const ask4 = "What strengths do you have ?"

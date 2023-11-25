@@ -6,8 +6,8 @@ import { IconArrowRight } from '@/components/ui/icons'
 
 const exampleMessages = [
   {
-    heading: 'Tell me a little about yourself ?',
-    message: 'Tell me a little about yourself ?'
+    heading: 'Tell me a little about yourself briefly ?',
+    message: 'Tell me a little about yourself briefly ?'
   },
   {
     heading: 'Which skills do you have ?',

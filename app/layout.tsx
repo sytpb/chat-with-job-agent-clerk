@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   title: 'AI of Yantao',
   description: 'AI agent created by yantao',
   icons: {
-    icon: '/favicon.ico',
+    icon: '/icon.ico',
   }
 }
 

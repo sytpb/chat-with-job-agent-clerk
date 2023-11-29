@@ -23,12 +23,11 @@ export interface PromptProps
 
 const ask1 = "Tell me a little about yourself briefly ?"
 const ask2 = "Do you have professional certifications ?"
-const ask3 = "Why should we hire you ?"
-const ask4 = "What strengths do you have ?"
-const ask5 = "What is your weakness ?"
-const ask6 = "Why did you leave your country ?"
-const ask7 = "Introduct about this robot ?"
-const ask8 = "Summarize your resume"
+const ask3 = "Why did you leave your country ?"
+const ask4 = "Introduct about this ai site ?"
+const ask5 = "Summarize your resume with bullet list"
+const ask6 = "Tell me about your job history, list it with table"
+const ask7 = "Which skills do you have?"
 
 export function PromptForm({
   onSubmit,
@@ -83,9 +82,6 @@ export function PromptForm({
               </Dropdown.MenuItem>
               <Dropdown.MenuItem onSelect={() => setInput(ask7)}>
                 {ask7}
-              </Dropdown.MenuItem>
-              <Dropdown.MenuItem onSelect={() => setInput(ask8)}>
-                {ask8}
               </Dropdown.MenuItem>
             </Dropdown.Menu>
           </Dropdown>

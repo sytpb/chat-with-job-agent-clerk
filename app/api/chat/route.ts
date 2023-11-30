@@ -97,7 +97,9 @@ export async function POST(req: Request) {
 
           <Fluke Networks>
             Here, Fluke Networks is a provider of network performance management
-            products. It's worth mentioning that I led a project for a client, Verizon in the
+            products. This all-in-one network packet capture solution facilitated back-in-time root cause analysis of network and application issues. 
+            
+            It's worth mentioning that I led a project for a client, Verizon in the
             United States. They had some customized requirements for our product. One
             of the challenges we faced was that our product's data collection granularity
             was at the minute level, but the client required it to be at the millisecond level.
@@ -139,6 +141,11 @@ export async function POST(req: Request) {
           <Nationality & Country from>
           China, now my family live in Finland.
           </Nationality & Country from>
+
+          <The reason for leaving your country>
+            this is a based on our family plan about future, I think european countries are quite suitable for us to raise our children, 
+            I believe that both we and our children would have better opportunities for development in Europe. 
+          </The reason for leaving your country>
 
           <Any question to ask me>
             If HR ask you like, "any question to ask me ?", you can say "sure + one queston to ask from the 1. 2. 3. 4.", 
